@@ -1,5 +1,5 @@
 # SmartAccountant.ai Masterclass
-## February 13, 2026 | 90 Minutes
+## May 21, 2026 | 90 Minutes
 
 ---
 
@@ -292,4 +292,4 @@ Transactions:
 
 ---
 
-*v2 - February 2026*
+*v2 - May 2026*

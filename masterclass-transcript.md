@@ -1,6 +1,6 @@
 # SmartAccountant.ai Masterclass
 ## Complete Slide-by-Slide Transcript
-### February 13, 2026 | 90 Minutes
+### May 21, 2026 | 90 Minutes
 
 ---
 
@@ -745,7 +745,7 @@ See? That's not complicated. That's not 'advanced AI.' That's copy, paste, revie
 
 "Here's your homework. And I mean this.
 
-Before Friday, do this workflow ONE time.
+Before Sunday, do this workflow ONE time.
 
 Pick a client. Export their transactions. Run the prompt. See what happens.
 
@@ -753,7 +753,7 @@ Take a screenshot of the results.
 
 When you get my follow-up email tomorrow, reply with what happened. I want to hear about it.
 
-If you don't do this by Friday, you won't do it. This is your moment. Make it real."
+If you don't do this by Sunday, you won't do it. This is your moment. Make it real."
 
 ---
 
@@ -935,4 +935,4 @@ Go do the homework. I'll see you on the inside."
 
 ---
 
-*Transcript v1.0 - February 2026*
+*Transcript v1.0 - May 2026*

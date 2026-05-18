@@ -17,34 +17,34 @@ Create a CSV file with ~50 transactions. Use realistic but messy bank feed data:
 
 ```csv
 Date,Description,Amount
-2026-01-03,PURCHASE AUTHORIZED ON 01/02 CARD 4829 AMAZON MKTPLACE PMTS,-89.47
-2026-01-03,ACH DEPOSIT STRIPE TRANSFER,2847.50
-2026-01-05,SQ *COFFEE HOUSE,-12.85
-2026-01-05,CHECKCARD 0105 OFFICE DEPOT #1247,-234.67
-2026-01-07,ZELLE PAYMENT FROM JOHNSON LLC,1500.00
-2026-01-08,PURCHASE AUTHORIZED VZWRLSS*APOCC VISN,-156.89
-2026-01-08,ACH DEBIT GUSTO PAYROLL,-4521.33
-2026-01-10,CHECKCARD 0110 COSTCO WHSE #1089,-567.23
-2026-01-10,SQ *THE UPS STORE,-23.45
-2026-01-12,PURCHASE AUTHORIZED GOOGLE *GSUITE,-14.40
-2026-01-12,TRANSFER FROM SAVINGS,5000.00
-2026-01-15,PURCHASE AUTHORIZED CANVA* 03847291,-12.99
-2026-01-15,ACH DEPOSIT DIRECT DEP JONES CONSULTING,3200.00
-2026-01-17,CHECKCARD 0117 STAPLES #0892,-89.99
-2026-01-17,SQ *CHIPOTLE 1892,-34.56
-2026-01-19,PURCHASE AUTHORIZED DROPBOX*YKVN782,-11.99
-2026-01-19,WIRE TRANSFER INCOMING PACIFIC RIM IMPORTS,15780.00
-2026-01-22,CHECKCARD 0122 LOWES #2847,-892.45
-2026-01-22,ACH DEBIT QUICKBOOKS PAYROLL,-6234.11
-2026-01-24,SQ *UBER TRIP,-45.67
-2026-01-24,PURCHASE AUTHORIZED ZOOM.US,-15.99
-2026-01-26,ACH DEPOSIT INVOICE 2847 - SMITH CO,4500.00
-2026-01-28,CHECKCARD 0128 BEST BUY #1092,-1247.89
-2026-01-28,PURCHASE AUTHORIZED ADOBE *CREATIVE CLD,-54.99
-2026-01-29,ATM WITHDRAWAL,-500.00
-2026-01-30,SQ *DOORDASH,-67.89
-2026-01-30,PURCHASE AUTHORIZED LINKEDIN PREMIUM,-59.99
-2026-01-31,BANK SERVICE CHARGE,-25.00
+2026-04-03,PURCHASE AUTHORIZED ON 04/02 CARD 4829 AMAZON MKTPLACE PMTS,-89.47
+2026-04-03,ACH DEPOSIT STRIPE TRANSFER,2847.50
+2026-04-05,SQ *COFFEE HOUSE,-12.85
+2026-04-05,CHECKCARD 0405 OFFICE DEPOT #1247,-234.67
+2026-04-07,ZELLE PAYMENT FROM JOHNSON LLC,1500.00
+2026-04-08,PURCHASE AUTHORIZED VZWRLSS*APOCC VISN,-156.89
+2026-04-08,ACH DEBIT GUSTO PAYROLL,-4521.33
+2026-04-10,CHECKCARD 0410 COSTCO WHSE #1089,-567.23
+2026-04-10,SQ *THE UPS STORE,-23.45
+2026-04-12,PURCHASE AUTHORIZED GOOGLE *GSUITE,-14.40
+2026-04-12,TRANSFER FROM SAVINGS,5000.00
+2026-04-15,PURCHASE AUTHORIZED CANVA* 03847291,-12.99
+2026-04-15,ACH DEPOSIT DIRECT DEP JONES CONSULTING,3200.00
+2026-04-17,CHECKCARD 0417 STAPLES #0892,-89.99
+2026-04-17,SQ *CHIPOTLE 1892,-34.56
+2026-04-19,PURCHASE AUTHORIZED DROPBOX*YKVN782,-11.99
+2026-04-19,WIRE TRANSFER INCOMING PACIFIC RIM IMPORTS,15780.00
+2026-04-22,CHECKCARD 0422 LOWES #2847,-892.45
+2026-04-22,ACH DEBIT QUICKBOOKS PAYROLL,-6234.11
+2026-04-24,SQ *UBER TRIP,-45.67
+2026-04-24,PURCHASE AUTHORIZED ZOOM.US,-15.99
+2026-04-26,ACH DEPOSIT INVOICE 2847 - SMITH CO,4500.00
+2026-04-28,CHECKCARD 0428 BEST BUY #1092,-1247.89
+2026-04-28,PURCHASE AUTHORIZED ADOBE *CREATIVE CLD,-54.99
+2026-04-29,ATM WITHDRAWAL,-500.00
+2026-04-30,SQ *DOORDASH,-67.89
+2026-04-30,PURCHASE AUTHORIZED LINKEDIN PREMIUM,-59.99
+2026-04-30,BANK SERVICE CHARGE,-25.00
 ```
 
 ### Chart of Accounts to Use:
@@ -77,7 +77,7 @@ Expenses:
 ### [00:00] Set the Scene
 
 **SAY:**
-"Alright, let me share my screen. I've got a bank feed export here—52 transactions from January. Most of these descriptions are terrible. You know the kind.
+"Alright, let me share my screen. I've got a bank feed export here—52 transactions from April. Most of these descriptions are terrible. You know the kind.
 
 This would normally take me 30 to 45 minutes to go through. Let's see what happens with AI."
 
@@ -232,7 +232,7 @@ Let's move to demo two."
 ### Sample Data to Prepare:
 Create two P&L summaries (January vs February) with some clear variances:
 
-**January P&L:**
+**March P&L:**
 ```
 Revenue
   Service Revenue: $45,200
@@ -253,7 +253,7 @@ Expenses
 Net Income: $25,440
 ```
 
-**February P&L:**
+**April P&L:**
 ```
 Revenue
   Service Revenue: $38,500
@@ -293,8 +293,8 @@ I need to walk into that meeting knowing what happened. Let's see how fast AI ca
 - Display both P&Ls side by side (or describe them)
 
 **SAY:**
-"January: $58,000 revenue, $25,000 net income.
-February: $46,700 revenue, $2,300 net income.
+"March: $58,000 revenue, $25,000 net income.
+April: $46,700 revenue, $2,300 net income.
 
 Net income dropped 91%. The client is going to ask me why. Let's find out."
 
@@ -307,7 +307,7 @@ Net income dropped 91%. The client is going to ask me why. Let's find out."
 ```
 You are a senior accountant preparing for a client meeting. Analyze the following two months of P&L data and help me understand what happened.
 
-JANUARY P&L:
+MARCH P&L:
 Revenue
   Service Revenue: $45,200
   Product Sales: $12,800
@@ -326,7 +326,7 @@ Expenses
 
 Net Income: $25,440
 
-FEBRUARY P&L:
+APRIL P&L:
 Revenue
   Service Revenue: $38,500
   Product Sales: $8,200
@@ -462,7 +462,7 @@ Sarah
 **Email 2 - Missing Document:**
 ```
 From: Marcus Johnson <marcus@johnsonlegal.com>
-Subject: RE: January reconciliation
+Subject: RE: April reconciliation
 
 Jan,
 
@@ -547,12 +547,12 @@ EMAIL 1 - From Sarah Chen (small design firm, been a client for 2 years):
 Subject: Quick question
 "Hi Jan, Where are we with January's books? My business partner is asking for the P&L and I want to make sure we're on track. Thanks! Sarah"
 
-CONTEXT: January books are 90% done, should be finished by Thursday.
+CONTEXT: April books are 90% done, should be finished by Wednesday.
 
 ---
 
 EMAIL 2 - From Marcus Johnson (attorney, been a client for 6 months, very detail-oriented):
-Subject: RE: January reconciliation
+Subject: RE: April reconciliation
 "Jan, I got your message about the missing receipt. I'm pretty sure that $347 charge at Office Depot was for printer ink and paper, but I can't find the receipt. Can we just categorize it without the receipt or do you need me to keep looking? Marcus"
 
 CONTEXT: We can categorize without receipt but should note it in the file.
@@ -595,7 +595,7 @@ Watch what happens."
 **SAY:**
 "Okay, here's Sarah's response:
 
-'Hi Sarah! Great timing on your question. January books are about 90% complete—I'm wrapping up the final reconciliations and you should have the P&L by Thursday. I'll send it over as soon as it's ready so you and your partner can review. Let me know if you need anything in the meantime! Best, Jan'
+'Hi Sarah! Great timing on your question. April books are about 90% complete—I'm wrapping up the final reconciliations and you should have the P&L by Wednesday. I'll send it over as soon as it's ready so you and your partner can review. Let me know if you need anything in the meantime! Best, Jan'
 
 Warm, gives a specific timeline, reassuring. That's how I'd write it. But I didn't have to."
 
@@ -705,16 +705,16 @@ Now let's talk about why most firms try this... and fail."
 **Smaller CSV for this demo:**
 ```csv
 Date,Description,Amount
-2026-02-01,PURCHASE AUTHORIZED AMAZON,-67.89
-2026-02-02,ZELLE FROM CLIENT ABC,2500.00
-2026-02-03,SQ *STARBUCKS,-8.45
-2026-02-04,ACH DEBIT GUSTO,-3200.00
-2026-02-05,CHECKCARD HOME DEPOT,-189.34
-2026-02-06,PURCHASE CANVA,-12.99
-2026-02-07,WIRE INCOMING SMITH LLC,8500.00
-2026-02-08,SQ *UBER,-34.56
-2026-02-09,PURCHASE ZOOM.US,-15.99
-2026-02-10,CHECKCARD COSTCO,-234.56
+2026-05-01,PURCHASE AUTHORIZED AMAZON,-67.89
+2026-05-02,ZELLE FROM CLIENT ABC,2500.00
+2026-05-03,SQ *STARBUCKS,-8.45
+2026-05-04,ACH DEBIT GUSTO,-3200.00
+2026-05-05,CHECKCARD HOME DEPOT,-189.34
+2026-05-06,PURCHASE CANVA,-12.99
+2026-05-07,WIRE INCOMING SMITH LLC,8500.00
+2026-05-08,SQ *UBER,-34.56
+2026-05-09,PURCHASE ZOOM.US,-15.99
+2026-05-10,CHECKCARD COSTCO,-234.56
 ```
 
 ### [00:30] Paste Prompt
@@ -792,4 +792,4 @@ Before the masterclass:
 
 ---
 
-*Demo Scripts v1.0 - February 2026*
+*Demo Scripts v1.0 - May 2026*

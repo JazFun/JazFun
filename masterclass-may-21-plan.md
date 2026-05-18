@@ -1,5 +1,5 @@
 # SmartAccountant.ai Live Masterclass Plan
-## February 13th, 2026 | 10:00 AM ET | 90 Minutes
+## May 21st, 2026 | 10:00 AM ET | 90 Minutes
 
 ---
 
@@ -291,7 +291,7 @@ Throughout the session, return to these themes:
 
 ---
 
-*Plan created: February 4, 2026*
-*Masterclass date: February 13, 2026*
+*Plan created: May 18, 2026*
+*Masterclass date: May 21, 2026*
 *Duration: 90 minutes*
 *Platform: TBD*
